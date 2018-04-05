@@ -44,15 +44,14 @@ An HTTP-based reactive event handling helps you build efficient solutions throug
 | Java API for Redis Cache | [https://docs.microsoft.com/en-us/java/api/com.microsoft.azure.management.redis._redis_cache](https://docs.microsoft.com/en-us/java/api/com.microsoft.azure.management.redis._redis_cache)  |
 | Caching Guidance (Private vs Shared) | [https://docs.microsoft.com/en-us/azure/architecture/best-practices/caching#considerations-for-using-caching](https://docs.microsoft.com/en-us/azure/architecture/best-practices/caching#considerations-for-using-caching)  |
 
-
 ## Spark
 
 #### There are two ways to run Spark
 
-+ batch or 
++ batch or
 + interactive
 
-##### Batch 
+##### Batch
 As batch you will use spark-submit with the python script you have in pycharm. Add the pyspark package to the pythonpath to have code completion in pycharm.
 
 ##### Interactive
@@ -85,9 +84,3 @@ For interactive use, it might be a good idea to combine jupyter notebook togethe
 | Description | Link  |
 |:-------------------- |:--------------------  |
 | Store unstructured data using Azure Functions and Azure Cosmos DB | [https://docs.microsoft.com/en-us/azure/azure-functions/functions-integrate-store-unstructured-data-cosmosdb](https://docs.microsoft.com/en-us/azure/azure-functions/functions-integrate-store-unstructured-data-cosmosdb)  |
-
-## CosmosDB
-
-x
-
-
